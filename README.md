@@ -10,7 +10,7 @@ React library for implementing Stream Payment Gateway
 
    - To install using npm:
      ```
-     npm install react-streapay --save
+     npm install react-streampay --save
      ```
 
    - To install using yarn:
